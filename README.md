@@ -3,8 +3,8 @@
 - I would like to find summer job in 2022 as a programmer.
 - My favourite language right now is C++
 - I'm planning to learn Java C# and Python
-
-- Cześć, mam na imię Sebastian
+-🇵🇱
+- 👋Cześć, mam na imię Sebastian
 - Obecnie studiuje informatykę na Politechnice Śląskiej
 - Chciałbym znaleźć pracę jako programista w lato 2022
 - Obecnie moim ulubionym językiem jest C++
