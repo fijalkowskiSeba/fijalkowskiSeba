@@ -1,12 +1,12 @@
 - ENG
 - 👋 Hi, my name is Sebastian
-- I'm currently studying Computer Science at Silesian University of Technology
+- I study Computer Science at Silesian University of Technology
 - I would like to find summer job in 2023 as a programmer.
 - My favourite language right now is Java
 - I'm planning to learn C# and Python
 - 🇵🇱
 - 👋Cześć, mam na imię Sebastian
-- Obecnie studiuje informatykę na Politechnice Śląskiej
+- Studiuję informatykę na Politechnice Śląskiej
 - Chciałbym znaleźć pracę jako programista w lato 2023
 - Obecnie moim ulubionym językiem jest Java
 - Planuję nauczyć się C# i Python
