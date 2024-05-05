@@ -1,14 +1,15 @@
-# 👋 Hi, I'm Sebastian
+# Hello, I'm Sebastian!
 
-I'm a 3rd year Computer Science student at Silesian University of Technology, with a passion for programming and learning new technologies.
+## About Me
+- 🎓 Bachelor's in Computer Science
+- 💻 Specializing in web development using Angular and Spring Boot with Docker
+- 📘 Currently learning DevOps
+- 🐧 Linux fan
 
-# 🚀 Junior Full Stack Developer
+## Skills
+- Web Development: Angular, Angular Material, Spring Boot
+- Database: PostgreSQL, Oracle
+- DevOps: Docker
 
-I specialize in Angular and Spring Boot, and I'm dedicated to expanding my knowledge and skills in web development.
-
-# 📚 Education
-
-Bachelor of Computer Science - Silesian University of Technology (Expected Graduation: February 2024)
-
-# 💬 Feel free to reach out to me 
-if you have any questions or opportunities to discuss. Thank you for your time!
+## Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/fijalkowskiseba/)
