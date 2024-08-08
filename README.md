@@ -7,7 +7,8 @@
 - 🐧 Linux fan
 
 ## Skills
-- Web Development: Angular, Angular Material, Spring Boot
+- Frontend: Angular, AngularJS, HTML, CSS, JavaScript, TypeScript
+- Backend: Spring Boot, Java
 - Database: PostgreSQL, Oracle
 - DevOps: Docker
 
